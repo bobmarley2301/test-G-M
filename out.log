@@ -1,9 +1,0 @@
-2024-12-27 11:47:32,930 - INFO - ====== WebDriver manager ======
-2024-12-27 11:47:33,119 - INFO - Get LATEST chromedriver version for google-chrome
-2024-12-27 11:47:33,232 - INFO - Get LATEST chromedriver version for google-chrome
-2024-12-27 11:47:33,339 - INFO - Driver [/Users/dimayaremcuk/.wdm/drivers/chromedriver/mac64/131.0.6778.204/chromedriver-mac-arm64/chromedriver] found in cache
-2024-12-27 11:47:35,133 - INFO - Navigated to Facebook login page.
-2024-12-27 11:47:35,298 - INFO - Successfully logged in.
-2024-12-27 11:47:42,396 - INFO - Navigated to profile page.
-2024-12-27 11:47:42,525 - INFO - Profile picture URL: https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-1/312977338_195581119615533_5144363476961877389_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=k_ssmQiQY34Q7kNvgFzr17R&_nc_zt=24&_nc_ht=scontent-iev1-1.xx&_nc_gid=Ag6r4Km1XMfOvyMbtgduVVZ&oh=00_AYCzHbwAK2rQ0KXdpNM1bMsIXFNNcMoIb1etCh8gAqsEXw&oe=67744924
-2024-12-27 11:47:42,576 - INFO - Picture downloaded successfully and saved to profile_picture.jpg
